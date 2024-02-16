@@ -53,5 +53,8 @@
     },
     "engines": {
         "node": ">=18.15.0"
+    },
+    "dependencies": {
+        "flowise-components": "^1.6.0"
     }
 }
